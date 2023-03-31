@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: ""
+baseurl: '/victoria-vvargas.github.io'
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -20,13 +20,13 @@ timezone: Australia/Melbourne
 
 title: Vic Labs # the main title
 
-tagline: A site to publish docs # it will display as the sub-title
+tagline: A site to publish my docs # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   My understanding of things as I learn.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://victoria-vvargas.github.io"
+url: 'https://victoria-vvargas.github.io'
 
 github:
   username: victoria-vvargas # change to your github username
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
+avatar:
 
 # boolean type, the global switch for TOC in posts.
 toc: true

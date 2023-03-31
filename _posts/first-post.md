@@ -1,7 +1,7 @@
 ---
 title: Hello Vic Labs
 date: 2023-03-31 12:00:00 -500
-categories: [test, post]
+categories: [post,test]
 tags: [testing,delete] #tags alsways need to be in lowercase
 ---
 
